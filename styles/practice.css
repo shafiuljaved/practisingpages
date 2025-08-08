@@ -1,0 +1,18 @@
+/* .background-img{
+    display: inline;
+    background-image: url(/images/sazzad-bin-jafor-pUWmncNmOTo-unsplash.jpg);
+    width: 300px;
+    /* margin: 15px; */
+    
+    /* background-position: center; */
+/* } */
+
+
+/* img{
+    width: 300px;
+/* } */ 
+
+.bgimage img{
+    background-image: url("/images/sazzad-bin-jafor-pUWmncNmOTo-unsplash.jpg");
+    width: 300px;
+}
